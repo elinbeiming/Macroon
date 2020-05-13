@@ -1,3 +1,6 @@
+.body{
+  background-color: #fdf4dd
+}
 #header{
   background-color: #FFCDD2;
   text-align: center;
@@ -6,7 +9,17 @@
 
 #meny{
   text-align: center;
-  text-decoration: none;
   background-color: #FFCDD2;
-  color: #fdf4dd;
+}
+
+#main{
+  background-color: #FFCDD2;
+  width: 75vw;
+  margin: auto;
+}
+
+#historia{
+  background-color: #FFCDD2;
+  width: 75vw;
+  margin: auto;
 }
